@@ -2,4 +2,4 @@
 Baserad på terrängkartan.
 Skapad av öppna data från Lantmäteriet och Trafikverket
 
-https://tryckluft.github.io/slitlagerkarta/
+https://jole84.github.io/slitlagerkarta/
